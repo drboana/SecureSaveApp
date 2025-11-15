@@ -98,11 +98,6 @@ def transaction_history():
         print("--- You have not performed any transaction history yet! ---")
 
 
-
-
-
-
-
 # Creating a Menu -----------------------------------------------------------------------------------
 
 run_securesave_app = True
